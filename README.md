@@ -15,7 +15,7 @@
         <img src="imagen.jpg" alt="Ejemplo de imagen">
     </main>
     <footer>
-        <p>&copy; 2024 Mi Nombre</p>
+        <p>&copy; 2024 CristianOrtiz</p>
     </footer>
 </body>
 </html>
