@@ -14,23 +14,23 @@
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🧑‍💻 Acerca de mí
+Here's the translation to English:
 
-Soy un desarrollador web enfocado en la creación de soluciones digitales modernas, eficientes y escalables.  
-Cuento con experiencia en el uso de tecnologías como:
+  🧑‍💻 About Me
 
-- **HTML5**, **CSS3** y **TypeScript** para el desarrollo de interfaces web sólidas y dinámicas.
-- **React**, **Next.js**, **TailwindCSS** y **Redux** para la construcción de aplicaciones web de alto rendimiento.
-- **Git** y **GitHub** para el control de versiones y la gestión de proyectos colaborativos.
-- **Visual Studio Code** como entorno de desarrollo integrado (IDE) principal.
-- **DBeaver** para la administración de bases de datos de manera eficiente.
+I am a web developer focused on creating modern, efficient, and scalable digital solutions.  
+I have experience working with technologies such as:
 
-Me caracterizo por mi compromiso con la calidad del código, la mejora continua y la adopción de buenas prácticas en el desarrollo de software.  
-Actualmente, estoy enfocado en fortalecer mis habilidades en el ecosistema **frontend** y avanzar progresivamente en el área **fullstack**.
+- **HTML5**, **CSS3**, and **TypeScript** for developing solid and dynamic web interfaces.
+- **React**, **Next.js**, **TailwindCSS**, and **Redux** for building high-performance web applications.
+- **Git** and **GitHub** for version control and managing collaborative projects.
+- **Visual Studio Code** as my primary integrated development environment (IDE).
+- **DBeaver** for efficient database management.
 
-**Construyendo soluciones que marcan la diferencia.**
+I am characterized by my commitment to code quality, continuous improvement, and the adoption of best practices in software development.  
+Currently, I am focused on strengthening my skills in the **frontend** ecosystem and progressively advancing in the **fullstack** area.
 
-
+**Building solutions that make a difference.**
 
   
 <h3 align="center">🛠️ Technologies I use </h3>
