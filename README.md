@@ -23,37 +23,19 @@
 </p>
 
 <p align="center">
-  <!-- Frontend -->
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="120" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width="120" alt="Next.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="120" alt="TailwindCSS" />
-  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg" width="120" alt="Redux.js" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="120" alt="Bootstrap" />
 </p>
-
 <p align="center">
-  <!-- Base de datos -->
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="120" alt="PostgreSQL" />
 </p>
-
 <p align="center">
-  <!-- Docker -->
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="120" alt="Docker" />
-</p>
-
-<p align="center">
-  <!-- Git y GitHub -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="120" alt="GitHub" />
 </p>
-
 <p align="center">
-  <!-- Webpack -->
-  <img src="https://www.vectorlogo.zone/logos/webpack/webpack-ar21.svg" width="120" alt="Webpack" />
-</p>
-
-<p align="center">
-  <!-- VSCode -->
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120" alt="VSCode" />
 </p>
 
