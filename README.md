@@ -103,17 +103,18 @@ fw1((ReactJs))
 fw2((NextJs))
 fw3((Bootstrap))
 fw4((tailwind))
+fw6((mermaid))
+b1((Dbeaver))
+b2((Postgretsql))
  subgraph  BackEnd
 b1
 b2
-b3
  end  
  subgraph Framworks 
 fw1
 fw2
 fw3
 fw4
-fw5
 fw6
  end
   subgraph  FrontEnd 
@@ -137,4 +138,5 @@ fw6
 
 ## Touch Me  ˊ•⌔•ˋ 
 
+|[Github](https://github.com/metazack89)|[LinkIn](www.linkedin.com/in/cristianortiz89)
 
