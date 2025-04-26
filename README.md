@@ -14,24 +14,7 @@
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg"></code>
-<br />
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://svg-viewer.fileformat.info/favicon.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/webpack/webpack-ar21.svg"></code>
-<br />
- <code><img width="15%" src="https://svg-viewer.fileformat.info/favicon.svg"></code> 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-ar21.svg"></code>
+
 
 
 
