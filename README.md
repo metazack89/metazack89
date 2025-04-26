@@ -14,6 +14,48 @@
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🛠️ Technologies I use </h3>
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="120" alt="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="120" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="120" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width="120" alt="Next.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="120" alt="TailwindCSS" />
+  <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg" width="120" alt="Redux.js" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="120" alt="Bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Base de datos -->
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="120" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <!-- Docker -->
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="120" alt="Docker" />
+</p>
+
+<p align="center">
+  <!-- Git y GitHub -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="120" alt="GitHub" />
+</p>
+
+<p align="center">
+  <!-- Webpack -->
+  <img src="https://www.vectorlogo.zone/logos/webpack/webpack-ar21.svg" width="120" alt="Webpack" />
+</p>
+
+<p align="center">
+  <!-- VSCode -->
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120" alt="VSCode" />
+</p>
 
 
 
