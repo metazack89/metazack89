@@ -1,4 +1,4 @@
-# Hola 👋, soy Chris89
+# Hola 👋, soy Cristian
 
 Soy un **Frontend Developer** apasionado por crear interfaces modernas y eficientes.
 
