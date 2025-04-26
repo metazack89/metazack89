@@ -79,10 +79,7 @@ flowchart TB
  A --> B
  A --> C
 ``` 
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width=16> **Vscode** not for web it for everything
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> Chromium base web browser like **Firefox** 
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">**Gimp**</a> for image manipulation
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
+
 
 - 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
 - 👯 I’m looking to collaborate on [github]("https://github.com/metazack89").
@@ -103,7 +100,7 @@ fw1((ReactJs))
 fw2((NextJs))
 fw3((Bootstrap))
 fw4((tailwind))
-fw6((mermaid))
+fw5((mermaid))
 b1((Dbeaver))
 b2((Postgretsql))
  subgraph  BackEnd
@@ -115,7 +112,7 @@ fw1
 fw2
 fw3
 fw4
-fw6
+fw5
  end
   subgraph  FrontEnd 
  f1
@@ -128,11 +125,10 @@ fw6
  f1 --o f4
  f2 --> fw3
  f2 --> fw4
- f2 --> fw5
  f3 --o fw1
  f3 --o fw2
  fw2 --o b1
- f4 --> fw6
+ f4 --> fw5
  b1 --o b2
  ```
 
