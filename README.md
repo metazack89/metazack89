@@ -14,6 +14,25 @@
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧑‍💻 Acerca de mí
+
+Soy un desarrollador web enfocado en la creación de soluciones digitales modernas, eficientes y escalables.  
+Cuento con experiencia en el uso de tecnologías como:
+
+- **HTML5**, **CSS3** y **TypeScript** para el desarrollo de interfaces web sólidas y dinámicas.
+- **React**, **Next.js**, **TailwindCSS** y **Redux** para la construcción de aplicaciones web de alto rendimiento.
+- **Git** y **GitHub** para el control de versiones y la gestión de proyectos colaborativos.
+- **Visual Studio Code** como entorno de desarrollo integrado (IDE) principal.
+- **DBeaver** para la administración de bases de datos de manera eficiente.
+
+Me caracterizo por mi compromiso con la calidad del código, la mejora continua y la adopción de buenas prácticas en el desarrollo de software.  
+Actualmente, estoy enfocado en fortalecer mis habilidades en el ecosistema **frontend** y avanzar progresivamente en el área **fullstack**.
+
+**Construyendo soluciones que marcan la diferencia.**
+
+
+
+  
 <h3 align="center">🛠️ Technologies I use </h3>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
