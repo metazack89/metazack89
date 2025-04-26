@@ -23,14 +23,14 @@
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="15%" src="https://svg-viewer.fileformat.info/favicon.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/webpack/webpack-ar21.svg"></code>
 <br />
+ <code><img width="15%" src="https://svg-viewer.fileformat.info/favicon.svg"></code> 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-ar21.svg"></code>
 
 
