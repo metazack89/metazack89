@@ -69,7 +69,7 @@ Currently, I am focused on strengthening my skills in the **frontend** ecosystem
 ### Computer :> Programs && Tools
 
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="Metazack89" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 ```mermaid
 flowchart TB
