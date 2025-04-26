@@ -3,7 +3,8 @@
 <div align="center">
  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
 <br>
-<img alt="Hola" align="center" height="50%" width="100%" src="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0"></img><br>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5729409.gif" width="611" height="95" alt="Hi, I´m Cristian Ortiz" /></a>
+<br /><a href="https://cooltext.com"></a><a href="https://cooltext.com/Edit-Logo?LogoID=4813669955"></a>
 
 </div>
  <p align="center">
