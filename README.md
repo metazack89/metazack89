@@ -67,6 +67,8 @@ Currently, I am focused on strengthening my skills in the **frontend** ecosystem
 </p>
 
 ### Computer :> Programs && Tools
+
+
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 ```mermaid
@@ -83,7 +85,7 @@ flowchart TB
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
 
 - 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
-- 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
+- 👯 I’m looking to collaborate on [github]("https://github.com/metazack89").
 - 🤔 I’m looking for help with Nextjs documentation.
 - 💬 Ask me about web Development or any tech-related stuff.
 - 😄 Pronouns: He/His
