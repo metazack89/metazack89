@@ -134,5 +134,22 @@ fw5
 
 ## Touch Me  ˊ•⌔•ˋ 
 
-|[Github](https://github.com/metazack89)|[LinkIn](www.linkedin.com/in/cristianortiz89)
+|[Github](https://github.com/metazack89)|[LinkIn](www.linkedin.com/in/cristianortiz89)|[Gmail](developchris89@gmail.com)||:-|:-|:-|:-|:--|
 
+> **Youth is a lie. It is nothing but evil.**
+
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
+ʕ •́؈•̀ ₎
+In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
+
+In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
+
+If failure is truly the proof of one's youth...
+
+Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
+
+My conclusion is this All you fools who delight in youth...
+
+> **Be Drop Dead.**
+
+  <p align="center">
