@@ -3,7 +3,7 @@
 <div align="center">
  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
 <br>
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5729409.gif" width="611" height="95" alt="Hi, I´m Cristian Ortiz" /></a>
+<img src="https://images.cooltext.com/5729409.gif" width="611" height="95" alt="Hi, I´m Cristian Ortiz" />
 <br />
 
 </div>
